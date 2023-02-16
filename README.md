@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a robotics researcher at the University of Edinburgh focussing on Robot Learning. I am associated with the [Robust Autonomy Decisions](https://rad.inf.ed.ac.uk/) group. I am also eager to get started on cool open source projects. If you have anything in mind do drop a message. Cheers!
+I am a robotics researcher at the University of Edinburgh focussing on Robot Learning. I am associated with the [Robust Autonomy Decisions](https://rad.inf.ed.ac.uk/) group. I am also eager to get started on open source projects. If you have anything in mind do drop a message. Cheers!
 
 <!--
 **Kzernobog/Kzernobog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
